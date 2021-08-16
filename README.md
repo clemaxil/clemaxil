@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @clemaxil
 - 👀 I’m PHP developper
-- 😍 I contribute to RoseBuB Project (a new style of Framwork)
+- 😍 I contribute to RoseBuB Project (a new style of Framework)
