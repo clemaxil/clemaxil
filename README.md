@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @clemaxil
-- 👀 I’m interested in Framework PHP MVC
+- 👀 I’m PHP developper
+- I contribute to RoseBuB Project
