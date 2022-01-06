@@ -32,6 +32,6 @@ TDD, Solid, YAGNI, KISS, DRY
 
 2005 Certification Linux RHCT: 604005107895300 (RedHat)
 
-2005 Niveau Ingénieur Informatique (CNAM)
+2005 Ingénierie Informatique (CNAM)
 
 2002 Licence Conduite de projet informatique
