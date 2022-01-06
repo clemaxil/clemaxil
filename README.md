@@ -2,23 +2,12 @@
 
 ## Skills 
 
-### Development
-HTML, CSS, JAVASCRIPT, PHP, SQL
-
-### Web Apps
-Symfony, SugarCRM, custom dev
-
-### Make
-Website, WebApps, CMS, CRM, E-commerce, E-learning, Customer portal, Api connector, Electronic Sign and Payement ...
-
-### Server
-Linux Certification Administration RedHat RHCT: 604005107895300
-
-### Projects / Teams
-Slack, Slite, Wrike, Discord, Git/GitHub, Scrum/Kanban, DDD, BDD 
-
-### Principes / Methods 
-TDD, Solid, YAGNI, KISS, DRY
+- HTML, CSS, JAVASCRIPT, PHP, SQL
+- Symfony, SugarCRM, custom PHP/SQL development
+- Web Site, Web Apps, CMS, CRM, E-commerce, E-learning, Customer portal, Api connector, Electronic Sign and Payement ...
+- Linux Certification Administration RedHat RHCT: 604005107895300
+- Slack, Slite, Wrike, Discord, Git/GitHub, Scrum/Kanban, DDD, BDD 
+- TDD, Solid, YAGNI, KISS, DRY
 
 ## Qualifications
 
