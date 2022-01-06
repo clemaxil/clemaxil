@@ -1,6 +1,6 @@
-#  Backend Developer PHP
+# Developpeur PHP
 
-## Skills 
+## Competences
 
 - HTML, CSS, JAVASCRIPT, PHP, SQL
 - Symfony, SugarCRM, custom PHP/SQL development
@@ -9,7 +9,7 @@
 - Slack, Slite, Wrike, Discord, Git/GitHub, Scrum/Kanban, DDD, BDD 
 - TDD, Solid, YAGNI, KISS, DRY
 
-## Qualifications
+## Formations
 
 - 2018 Framework Symfony
 - 2014 Framework CodeIgniter
