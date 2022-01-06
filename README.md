@@ -1,3 +1,14 @@
-- 👋 Hi, I’m @clemaxil 25
-- 👀 I’m PHP developper
-- 😍 I contribute to RoseBuB Project (a new style of Framework)
+- Backend Developer PHP
+- Symfony 
+- SugarCRM
+- DDD
+- BDD
+- TDD
+- SCRUM 
+- Kanban
+- Git
+- SQL
+- Solid
+- YAGNI
+- KISS
+- DRY
