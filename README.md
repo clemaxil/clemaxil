@@ -1,19 +1,21 @@
 #  Backend Developer PHP
 
-## Development
+## Skills 
+
+### Development
 HTML, CSS, JAVASCRIPT, PHP, SQL
 
-## Web Apps
+### Web Apps
 Symfony, SugarCRM, custom dev
 
-## Make
-CMS, CRM, E-commerce, E-learning, Customer portal, Api connector, Electronic Sign and Payement ...
+### Make
+Website, WebApps, CMS, CRM, E-commerce, E-learning, Customer portal, Api connector, Electronic Sign and Payement ...
 
-## Server
+### Server
 Linux Certification Administration RedHat RHCT: 604005107895300
 
-## Projects / Teams
+### Projects / Teams
 Slack, Slite, Wrike, Discord, Git/GitHub, Scrum/Kanban, DDD, BDD 
 
-## Principes / Methods 
+### Principes / Methods 
 TDD, Solid, YAGNI, KISS, DRY
