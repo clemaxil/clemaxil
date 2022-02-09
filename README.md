@@ -5,10 +5,11 @@
 - Développement: PHP, SQL, HTML, CSS, JAVASCRIPT, SYMFONY, SUGARCRM
 - Normes et sécurité: W3C, ANSSI, OWASP, RGPD, CNIL
 - Principes: Solid, Yagni, Kiss, Dry, DDD, BDD, TDD, clean code, clean architecture
-- Serveur Linux: Certification Administration RedHat RHCT
+- Serveur Linux: Linux Redhat/Centos. Certification Administration RedHat RHCT. IaaS Ovh/Scaleway
 - Projets/Équipes: Méthodes Agiles. Scrum, Kanban. Slack, Slite, Trello, Wrike, Monday 
 - Déploiement continu: Pipeline CI/CD, GitHub Actions
-- Multi Cloud: Gandi, Ovh/Scaleway/Scalingo/CleverCloud/Hidora, Linux Redhat/Centos 
+- Multi Cloud: DNS Gandi. ReverseProxy Cloudflare. PaaS Scalingo/CleverCloud/Hidora.
+- Autres: ElasticSearch, Redis, RabbitMQ, Mercure, Algolia, MySQL, Sqlite ...
 
 ## FORMATIONS
 
@@ -45,7 +46,3 @@
 - Gestion des adhérents pour associations
 - Développement CRM 
 - Administration serveurs Linux RedHat
-
-### 1991 – 2001: Technicien de maintenance informatique ( Groupe Casino – Aix en Provence 13 )
-- Maintenance électronique/informatique
-- Développement extranet, guide réparations et résolution de pannes pour les techniciens
