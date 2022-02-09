@@ -31,8 +31,8 @@
 - Développement gestion de relation client SugarCRM. Signature électronique des documents
 - Création portail E-learning. Intégration LMS. Signature électronique des présences
 - Développement et Intégration Api / Webservices / Microservices
+- Développement application / Api Symfony
 - Administration serveurs Linux RedHat/Centos
-- Formations et certification en cours : Symfony. API Platform. Sylius
 
 ### 2006 – 2010: Développeur PHP ( illicoweb – Morvillars 90)
 - Création de sites web pour les collectivités.
